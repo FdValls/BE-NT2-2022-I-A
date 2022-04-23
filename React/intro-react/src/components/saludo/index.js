@@ -12,7 +12,7 @@ const saludo = (prop) => {
                 </h2>
                 :
                 <h2>
-                    SIN SALUDO
+                    Introduzca un nombre para saludar
                 </h2>
             }
             
